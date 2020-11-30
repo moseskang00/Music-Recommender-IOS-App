@@ -35,5 +35,5 @@ This app utilizes tableViews, core data, and other Swift functionalities along s
 * [Xcode - 12.1](https://developer.apple.com/xcode/) - The IDE used
 * [Swift - 5.1.4](https://developer.apple.com/swift/) - Programming language
 
-##Author
+## Author
 * Moses Kang

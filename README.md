@@ -1,4 +1,4 @@
 # Music-Recommender-IOS-App
 
 ### App Screenshots
-![](project_images/Screen Shot 2020-11-29 at 7.28.58 PM)
+![](project_images/Screen_Shot_2020-11-29_at_7.28.58_PM)

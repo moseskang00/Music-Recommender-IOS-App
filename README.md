@@ -3,7 +3,8 @@
 }
 
 # Music-Recommender-IOS-App
-This is my first iOS app. An iOS app that performs api calls to the [AudioDB API](https://www.theaudiodb.com/api_guide.php)
+This is my first iOS app. An iOS app that performs api calls to the [AudioDB API](https://www.theaudiodb.com/api_guide.php).
+
 link to demonstration: https://youtu.be/9vzuvE7hqMw
 
 ## Description

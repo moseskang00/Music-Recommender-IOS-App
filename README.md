@@ -4,6 +4,7 @@
 
 # Music-Recommender-IOS-App
 This is my first iOS app. An iOS app that performs api calls to the [AudioDB API](https://www.theaudiodb.com/api_guide.php)
+link to demonstration: https://youtu.be/9vzuvE7hqMw
 
 ## Description
 This app utilizes tableViews, core data, and other Swift functionalities along side a music database API called AudioDB to get information on user selected artist's most recent albums and track listings. A user can select a genre and an associated artist to see the track listing of the artist's most recent ablum.
